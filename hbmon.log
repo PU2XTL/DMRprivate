@@ -1,0 +1,30 @@
+2021-03-11 19:16:46 INFO monitor.py starting up
+2021-03-11 19:16:46 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2021
+
+
+2021-03-11 19:16:46 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2021-03-11 19:16:46 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2021-03-11 19:16:46 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2021-03-11 19:17:03 INFO monitor.py starting up
+2021-03-11 19:17:03 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2021
+
+
+2021-03-11 19:17:03 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2021-03-11 19:17:03 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2021-03-11 19:17:03 INFO ID ALIAS MAPPER: peer_ids dictionary is available
